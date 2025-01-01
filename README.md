@@ -1,7 +1,7 @@
 # todolist-web
 TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
 
-You can see the website live at:https://github.com/Adars2005/todolist-web
+You can see the website live at:https://github.com/Adars2005/todolist-web.git
 
 ABOUT THIS PROJECT-:
 
